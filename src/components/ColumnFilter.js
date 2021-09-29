@@ -13,13 +13,3 @@ export const ColumnFilter = ({ column }) => {
   )
 }
 
-
-import React from 'react'
-
-export default function ColumnFilter() {
-  return (
-    <div>
-    </div>
-  )
-}
-
