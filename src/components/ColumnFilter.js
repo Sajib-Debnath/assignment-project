@@ -12,3 +12,14 @@ export const ColumnFilter = ({ column }) => {
     </span>
   )
 }
+
+
+import React from 'react'
+
+export default function ColumnFilter() {
+  return (
+    <div>
+    </div>
+  )
+}
+
